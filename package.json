@@ -1,0 +1,14 @@
+{
+  "name": "p4pc2",
+  "version": "0.0.1",
+  "description": "Prueba Corta 2 gestion empleados RRHH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Lagos",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.6.2"
+  }
+}
